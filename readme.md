@@ -1,7 +1,9 @@
 
 # Fantasy Football Projections 2018 work-in-progress
 
-Scraping from private gSheets, adjusted for specific league scoring
+A project where I scrape multiple sources of Fantasy Football projections, from various analyists and industry thought-leaders, and graphs the distributions of these projections. It also converts the projections to a recently ubiquitized scoring-system, developed by Scott Fish (Twitter: @ScottFish24), through his vast charity tournaments and adjacent satellite leagues. 
+
+Currently, the data is scraping from private,individually edited gSheets, adjusted for specific league scoring. Over time, the manipulations will be moved from the sheets to R code below.
 
 ### Install and Load Packages
 
