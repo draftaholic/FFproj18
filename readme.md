@@ -1,7 +1,9 @@
 
 # Fantasy Football Projections 2018 work-in-progress
 
-A project where I scrape multiple sources of Fantasy Football projections, from various analyists and industry thought-leaders, and graph the distributions of these projections. It also converts the projections to a recently ubiquitized scoring-system, developed by Scott Fish (Twitter: @ScottFish24) through his vast charity tournaments and adjacent satellite leagues called The 'Scott Fish Bow'. Now in it's eighth year, the scoring-system now commonly dubbed #SFB8 scroing, gives extra weight to the productivity and efficiency of TEs who accumulate receptions, particularly first downs, as well as the survivorship of RB workload, by rewarding a fraction of a point for simply receiving a rushing-attempt, regardless of outcome. 
+A project where I scrape multiple sources of Fantasy Football projections, from various analyists and industry thought-leaders, and graph the distributions of these projections. It also converts the projections to a recently ubiquitized scoring-system, developed by Scott Fish (Twitter: @ScottFish24) through his vast charity tournaments and adjacent satellite leagues called The 'Scott Fish Bowl'. 
+
+Now in it's eighth year, the scoring-system (commonly dubbed '#SFB8' scoring), gives extra weight to the productivity and efficiency of Tight Ends who accumulate receptions, particularly first downs, as well as the survivorship of rushing workload, by rewarding a fraction of a point for simply being given a rushing-attempt, regardless of outcome. Quarterbacks also receive more than average for Passing Touchdowns than is typical.
 
 Currently, the data is scraping from private,individually edited gSheets, adjusted for specific league scoring. Over time, the manipulations will be moved from the sheets to R code below.
 
