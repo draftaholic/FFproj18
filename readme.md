@@ -1,5 +1,5 @@
 
-# Fantasy Football Projections 2018 work-in-progress
+# Using Wisdom of the Crowd to create smarter Fantasy Football Projections
 
 A project where I scrape multiple sources of Fantasy Football projections, from various analyists and industry thought-leaders, and graph the distributions of these projections. It also converts the projections to a recently ubiquitized scoring-system, developed by Scott Fish (Twitter: @ScottFish24) through his vast charity tournaments and adjacent satellite leagues called The 'Scott Fish Bowl'. 
 
